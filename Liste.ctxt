@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Liste
+comment1.params=start
+comment1.target=Liste(java.lang.Object)
+comment2.params=
+comment2.target=void\ initPointer()
+comment3.params=stelle
+comment3.target=void\ printNode(int)
+comment4.params=obj
+comment4.target=void\ append(java.lang.Object)
+comment5.params=stelle\ obj
+comment5.target=void\ insert(int,\ java.lang.Object)
+comment6.params=stelle
+comment6.target=void\ delete(int)
+comment7.params=
+comment7.target=int\ getLength()
+numComments=8
